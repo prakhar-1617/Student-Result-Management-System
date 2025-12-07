@@ -111,6 +111,18 @@
       "username": "fdajnfd",
       "password": "125ddf",
       "role": "teacher"
+    },
+    {
+      "id": "a7a4",
+      "username": "rndi",
+      "password": "rndi",
+      "role": "student"
+    },
+    {
+      "id": "c4e2",
+      "username": "prakhar",
+      "password": "1234",
+      "role": "student"
     }
   ]
 }
